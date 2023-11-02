@@ -59,9 +59,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Keanu Reeves <a href="/">Challenge</a>
-        </h1>
+        <h1 className={styles.title}>Keanu Reeves Challenge</h1>
         <p className={styles.description}>
           Input the image width, image height, and the options for young Keanu
           and grayscale.
